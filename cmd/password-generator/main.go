@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zxhoper/password-generator"
+	namegenerator "github.com/zxhoper/password-generator"
 )
 
 func main() {
