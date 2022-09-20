@@ -20,14 +20,12 @@ package password_generator
 import (
 	"fmt"
 	"time"
-
-	namegenerator "github.com/zxhoper/password-generator"
 )
 
 // ExampleNameGenerator ...
 func ExampleNameGenerator() {
 	seed := time.Now().UTC().UnixNano()
-	nameGenerator := namegenerator.NewNameGenerator(seed)
+	nameGenerator := NewNameGenerator(seed)
 
 	name := nameGenerator.Generate()
 
