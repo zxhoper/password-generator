@@ -56,10 +56,10 @@ var (
 		"flea", "fly", "bat", "bear", "camel", "deer", "fox", "goat", "hare", "lion", "tiger",
 		"cat", "dog", "otter", "panda", "pony", "mouse", "rat", "whale", "zebra", "snail", "snake",
 		"turtle", "carrot", "onion", "bean", "yam", "pumpkin", "summer", "winter", "fall",
-		"tree", "hill", "storm", "", "yam", "pumpkin", "summer", "winter", "fall",
+		"tree", "hill", "storm", "yam", "pumpkin", "summer", "winter", "fall",
 		"bush", "dew", "dust", "field", "fire", "flower", "firefly", "feather", "grass",
 		"haze", "mountain", "night", "pond", "sea", "snowflake", "wind",
-		"sound", "sky", "shape", "surf", "thunder", "violet", "water", "wildflower",
+		"sound", "sky", "shape", "surf", "thunder", "violet", "water", "fruit",
 		"wave", "water", "snow", "sun", "wood", "dream", "cherry", "tree", "fog",
 		"frost", "voice", "paper", "frog", "smoke", "star"}
 )
