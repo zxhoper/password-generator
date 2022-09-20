@@ -29,7 +29,7 @@ var (
 	// 	"restless", "divine", "polished", "ancient", "purple", "lively", "nameless"}
 
 	// ADJECTIVES ...
-	ADJECTIVES = []string{"Sunny", "Rainy", "Dry", "Dirty", "Silent", "Empty", "Dry", "Ddark", "Cloudy",
+	ADJECTIVES = []string{"Sunny", "Rainy", "Dry", "Dirty", "Silent", "Empty", "Dry", "Dark", "Cloudy",
 		"Icy", "Foggy", "Quiet", "Clear", "Cool", "Windy", "Wet", "Still", "Pretty", "Ugly",
 		"Old", "New", "Hot", "Cold", "Young", "Big", "Small", "Thick", "Thin", "Full", "Good",
 		"Bad", "Best", "Black", "Early", "Late", "Free", "Great", "High", "Hard", "Human", "Large",
