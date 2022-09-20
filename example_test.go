@@ -15,13 +15,13 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
-package namegenerator_test
+package password-generator_test
 
 import (
 	"fmt"
 	"time"
 
-	"github.com/goombaio/namegenerator"
+	"github.com/zxhoper/password-generator"
 )
 
 // ExampleNameGenerator ...

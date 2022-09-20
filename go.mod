@@ -1,1 +1,1 @@
-module github.com/zxhoper/namegenerator
+module github.com/zxhoper/password-generator
