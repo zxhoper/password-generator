@@ -15,13 +15,13 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
-package password-generator_test
+package password_generator
 
 import (
 	"fmt"
 	"time"
 
-	"github.com/zxhoper/password-generator"
+	namegenerator "github.com/zxhoper/password-generator"
 )
 
 // ExampleNameGenerator ...
